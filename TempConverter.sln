@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempConverter", "TempConverter\TempConverter.csproj", "{EA3E5A49-9DD9-43BB-8B5A-2FFA54BA3AC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA3E5A49-9DD9-43BB-8B5A-2FFA54BA3AC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA3E5A49-9DD9-43BB-8B5A-2FFA54BA3AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA3E5A49-9DD9-43BB-8B5A-2FFA54BA3AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA3E5A49-9DD9-43BB-8B5A-2FFA54BA3AC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58F9471F-E162-417C-B17D-322CBFA7B486}
+	EndGlobalSection
+EndGlobal
